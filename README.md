@@ -44,6 +44,5 @@ I'm excited to:
 - Optimize performance for large-scale React applications.
 - Contribute to React open-source projects.
 
-## Let's Connect!
-- **GitHub:** [github.com/yourusername](https://github.com/Shruti1012)
+
 
